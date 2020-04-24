@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1023fb8a-9580-4c53-8d8e-dbf3c86d6e69" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1axoZR4QHaQVAD11YvvcKfuzpDW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Pruebas" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/apps/elearning/management/commands" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django server.reto_2">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="reto_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reto_2" type="Python.DjangoServer" factoryName="Django server">
+      <module name="reto_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="reto_2.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1023fb8a-9580-4c53-8d8e-dbf3c86d6e69" name="Default Changelist" comment="" />
+      <created>1587686660823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587686660823</updated>
+      <workItem from="1587686663476" duration="3830000" />
+      <workItem from="1587707512552" duration="6999000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587687737709">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="141" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1366.738@0.30.1366.738" timestamp="1587687737709" />
+    <state x="432" y="191" width="491" height="418" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587687723521">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="432" y="191" width="491" height="418" key="#com.intellij.fileTypes.FileTypeChooser/0.30.1366.738@0.30.1366.738" timestamp="1587687723521" />
+    <state x="466" y="157" width="424" height="487" key="FileChooserDialogImpl" timestamp="1587714512126">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="466" y="157" width="424" height="487" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1587714512126" />
+    <state width="1320" height="150" key="GridCell.Tab.0.bottom" timestamp="1587714513595">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1320" height="150" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1587714513595" />
+    <state width="1320" height="150" key="GridCell.Tab.0.center" timestamp="1587714513594">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1320" height="150" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1587714513594" />
+    <state width="1320" height="150" key="GridCell.Tab.0.left" timestamp="1587714513594">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1320" height="150" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1587714513594" />
+    <state width="1320" height="150" key="GridCell.Tab.0.right" timestamp="1587714513594">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1320" height="150" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1587714513594" />
+    <state x="187" y="34" width="992" height="733" key="SettingsEditor" timestamp="1587687684146">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="187" y="34" width="992" height="733" key="SettingsEditor/0.30.1366.738@0.30.1366.738" timestamp="1587687684146" />
+    <state x="365" y="130" width="635" height="538" key="find.popup" timestamp="1587707651236">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="365" y="130" width="635" height="538" key="find.popup/0.30.1366.738@0.30.1366.738" timestamp="1587707651236" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/reto_2$manage.coverage" NAME="manage Coverage Results" MODIFIED="1587689008086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

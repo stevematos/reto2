@@ -1,0 +1,97 @@
+[
+  {
+    "model": "elearning.category",
+    "pk": 1,
+    "fields": {
+      "name": "Ciencias"
+    }
+  },
+  {
+    "model": "elearning.category",
+    "pk": 2,
+    "fields": {
+      "name": "Humanidades"
+    }
+  },
+  {
+    "model": "elearning.course",
+    "pk": 1,
+    "fields": {
+      "title": "Biologia",
+      "id_category": 1
+    }
+  },
+  {
+    "model": "elearning.course",
+    "pk": 2,
+    "fields": {
+      "title": "Psicologia",
+      "id_category": 2
+    }
+  },
+  {
+    "model": "elearning.user",
+    "pk": 1,
+    "fields": {
+      "email": "steve.matos.1998@gmail.com"
+    }
+  },
+  {
+    "model": "elearning.inscription",
+    "pk": 1,
+    "fields": {
+      "id_user": 1,
+      "id_course": 1
+    }
+  },
+  {
+    "model": "elearning.inscription",
+    "pk": 2,
+    "fields": {
+      "id_user": 1,
+      "id_course": 2
+    }
+  },
+  {
+    "model": "elearning.inscription",
+    "pk": 1,
+    "fields": {
+      "id_user": 1,
+      "id_course": 1
+    }
+  },
+  {
+    "model": "elearning.inscription",
+    "pk": 2,
+    "fields": {
+      "id_user": 1,
+      "id_course": 2
+    }
+  },
+  {
+    "model": "elearning.progressvideo",
+    "pk": 1,
+    "fields": {
+      "minutes_daily_play": 10,
+      "course": "",
+      "user": "",
+      "dia": "2020-10-21",
+      "category": "",
+      "id_inscription": 1,
+      "id_category": 1
+    }
+  },
+  {
+    "model": "elearning.progressvideo",
+    "pk": 2,
+    "fields": {
+      "minutes_daily_play": 30,
+      "course": "",
+      "user": "",
+      "dia": "2020-10-22",
+      "category": "",
+      "id_inscription": 2,
+      "id_category": 2
+    }
+  }
+]
